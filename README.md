@@ -1,10 +1,11 @@
 # Data-Visualization
 
 Welcome to the Comprehensive Data Visualization Course repository by Muhammad Sheraz. This repository is your go-to resource for mastering the art of data visualization. Whether you're a beginner, a data enthusiast, or a professional in the field, this course is designed to enhance your skills and proficiency in creating impactful visualizations using various tools and techniques.
-<div align="center" width='100%'>
-  <img width="500" height="500" src="images/intromatlab.png">
-  <img width="400" height="500" src="images/matplotlibadvantages.png">
+<div align="center">
+  <img width="49%" src="images/intromatlab.png">
+  <img width="49%" src="images/matplotlibadvantages.png">
 </div>
+
 
 ## Course Overview
 
