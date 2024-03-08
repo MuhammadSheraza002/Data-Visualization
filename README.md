@@ -11,7 +11,6 @@ Welcome to the Comprehensive Data Visualization Course repository by Muhammad Sh
 
 In this course, we will explore the principles of effective data visualization and dive into practical applications using popular visualization libraries and tools. From basic charts to interactive dashboards, you will learn how to communicate complex data insights in a visually compelling way.
 
-## Key Topics Covered
 
 # Lecture 1: Introduction to Data Visualization
 
@@ -71,11 +70,3 @@ If you have questions, suggestions, or feedback, feel free to create an issue or
 
 I hope you find these lectures valuable in your journey to mastering data visualization. Create engaging visual stories with your data and make a significant impact in conveying insights effectively! 😄
 
-
-
-
----
-
-## Happy Visualizing! 📊
-
-I hope you find this repository valuable in your journey to mastering data visualization. Create engaging visual stories with your data and make a significant impact in conveying insights effectively! 😄
