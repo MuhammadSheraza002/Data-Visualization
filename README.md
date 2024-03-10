@@ -45,7 +45,7 @@ In this course, we will explore the principles of effective data visualization a
 
 ## Lecture 5: Seaborn Library
 
-<img align="right" width="500" height="250"  src="images/seaborn_functions.png"  >
+
 
 1. **Overview of Seaborn Library**
 2. **Download and Install Seaborn**
