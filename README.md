@@ -12,7 +12,7 @@ Welcome to the Comprehensive Data Visualization Course repository by Muhammad Sh
 In this course, we will explore the principles of effective data visualization and dive into practical applications using popular visualization libraries and tools. From basic charts to interactive dashboards, you will learn how to communicate complex data insights in a visually compelling way.
 
 
-# Lecture 1: Introduction to Data Visualization
+### Lecture 1: Introduction to Data Visualization
 
 1. **Introduction to Data Visualization**
 2. **Chart Chooser**
@@ -44,7 +44,7 @@ In this course, we will explore the principles of effective data visualization a
 5. **Subplots**
 
 # Lecture 5: Seaborn Library
-
+<img align="left" width="600" height="300"  src="images/seaborn_functions.png"  >
 1. **Overview of Seaborn Library**
 2. **Download and Install Seaborn**
 3. **Built-in Datasets of Seaborn Library**
