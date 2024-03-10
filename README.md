@@ -47,10 +47,10 @@ In this course, we will explore the principles of effective data visualization a
 
 
 
-1. **Overview of Seaborn Library**
-2. **Download and Install Seaborn**
-3. **Built-in Datasets of Seaborn Library**
-4. **Plotting with Seaborn**
+- **Overview of Seaborn Library**
+- **Download and Install Seaborn**
+- **Built-in Datasets of Seaborn Library**
+- **Plotting with Seaborn**
    - The `relplot()` method
    - The `displot()` method
    - The `catplot()` method
