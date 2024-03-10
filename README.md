@@ -21,21 +21,21 @@ In this course, we will explore the principles of effective data visualization a
 5. **How to Draw a Line Chart**
 6. **Enhance the Graph Step by Step**
 
-# Lecture 2: Basic Charts in Matplotlib
+## Lecture 2: Basic Charts in Matplotlib
 
 1. **Anatomy of a Figure (Recap)**
 2. **Recap of Line Chart**
 3. **Bar Plot**
 4. **Scatter Plot**
 
-# Lecture 3: Advanced Charts in Matplotlib
+## Lecture 3: Advanced Charts in Matplotlib
 
 1. **Recap: Anatomy of a Figure, Line, Bar, Scatter Chart**
 2. **Pie Chart**
 3. **Histogram**
 
 
-# Lecture 4: Advanced Charts in Matplotlib
+## Lecture 4: Advanced Charts in Matplotlib
 
 1. **Recap: Anatomy of a Figure, Line, Bar, Scatter Chart**
 2. **Box Plot**
@@ -43,9 +43,9 @@ In this course, we will explore the principles of effective data visualization a
 4. **Heatmap**
 5. **Subplots**
 
-# Lecture 5: Seaborn Library
+## Lecture 5: Seaborn Library
 
-<img align="right" width="400" height="200"  src="images/seaborn_functions.png"  >
+<img align="right" width="500" height="250"  src="images/seaborn_functions.png"  >
 
 1. **Overview of Seaborn Library**
 2. **Download and Install Seaborn**
