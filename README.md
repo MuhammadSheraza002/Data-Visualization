@@ -45,18 +45,29 @@ In this course, we will explore the principles of effective data visualization a
 
 ## Lecture 5: Seaborn Library
 
-
-
 - **Overview of Seaborn Library**
 - **Download and Install Seaborn**
 - **Built-in Datasets of Seaborn Library**
 - **Plotting with Seaborn**
-   - The `relplot()` method
-   - The `displot()` method
-   - The `catplot()` method
+   - **The `relplot()` method**
+   - **The `displot()` method**
+   - **The `catplot()` method**
 
 
+## Lecture 6: Ploty Library
 
+- **Overview of Ploty Library**
+- **Download and Install Ploty**
+- **Built-in Datasets of Ploty Library**
+- **Plotting with Ploty**
+   - **The `plot()` method**
+   - **The `scatter()` method**
+   - **The `bar()` method**
+   - **The `histogram()` method**
+   - **The `box()` method**
+   - **The `heatmap()` method**
+   - **The `surface()` method**
+   - **The `choropleth()` method**
 
 # How to Use This Repository
 
